@@ -15,7 +15,7 @@ deepPERFECT is a generative AI deep learning model that is trained to capture th
 <img width="600"  src=https://github.com/hh1368hh/deepPERFECT/assets/12381813/55a9b5f6-638a-4457-8a71-50015d924904>
 </p>
 
-### It can predict the shape of body and patient back curvature very well
+### It can predict the shape of body and patient back curvature
 
 <p align="center">
 <img width="600"  src=https://github.com/hh1368hh/deepPERFECT/assets/12381813/ed96ea6e-c70d-46ce-89f1-92d9480a546a>
