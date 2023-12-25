@@ -5,3 +5,8 @@ deepPERFECT is a generative AI deep learning model that is trained to capture th
 
 
 ![plot](https://www.mdpi.com/cancers/cancers-15-03061/article_deploy/html/images/cancers-15-03061-g002.png)
+
+
+
+### deepPERFECT is a Generative Adversarial Network
+![image](https://github.com/hh1368hh/deepPERFECT/assets/12381813/55a9b5f6-638a-4457-8a71-50015d924904)
