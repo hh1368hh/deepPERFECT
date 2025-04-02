@@ -1,4 +1,4 @@
-## deepPERFECT: GAN based GenAI system for generation of 3D deformation vector fields 
+## deepPERFECT: 3D GAN based GenAI system for generation of 3D deformation vector fields 
 https://doi.org/10.3390/cancers15113061
 
 deepPERFECT is a generative AI deep learning model that is trained to capture the differences in patient setup and acquisition techniques between the diagnostic CT scan and planning/simulation CT scan, and generate deformation vector fields to transform diagnostic CT into preliminary planning CT. 
